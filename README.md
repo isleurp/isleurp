@@ -1,4 +1,1 @@
-- 👋 Salam c'est iSleurp
-- 👀 BONJOU MON AMI
-- 🌱 j'apprend
-- 💞️ ohnony c'est mon gars il hack tt
+
